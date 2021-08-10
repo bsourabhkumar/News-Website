@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    /* width: 80vw; */
+}
+
+.containerBig > h2{
+    margin-left: 600px;    
+}
+
+.img-container{
+    width: 800px;
+    margin: 15px;
+}
+.content {
+    height: 800px;
+    width: 800px;
+    margin: 10px;
+}
